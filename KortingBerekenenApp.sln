@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KortingBerekenen", "KortingBerekenen\KortingBerekenen.csproj", "{577B91A5-0048-4880-94DC-F47C40823B4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{577B91A5-0048-4880-94DC-F47C40823B4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{577B91A5-0048-4880-94DC-F47C40823B4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{577B91A5-0048-4880-94DC-F47C40823B4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{577B91A5-0048-4880-94DC-F47C40823B4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A09EBFE7-C1FA-4F30-8537-26A72169D8FA}
+	EndGlobalSection
+EndGlobal
